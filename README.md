@@ -18,7 +18,7 @@ The system architecture consists of the following components:
   - Query the data with **AWS Athena**.
   - Load the processed data into **AWS Redshift** for further analysis.
 
-![Architecture Diagram](https://via.placeholder.com/800x400) <!-- Replace with your actual image URL -->
+![Architecture Diagram](313504181-321a5329-edc2-4715-b8d9-77e03a70341e.png) 
 
 ---
 
